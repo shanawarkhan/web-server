@@ -1,0 +1,15 @@
+
+Use below code for checking your directory before serving files from public folder
+ console.log(__dirname); 
+
+
+
+
+//Express Static for route for serving files from public folder
+// If we do not specify '/' route , then the route provided in expressStatic will be made the default route
+
+
+
+
+Specifying PORT throught the port variable so that we don't repeat ourselves
+
